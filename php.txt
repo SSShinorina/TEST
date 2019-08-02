@@ -1,0 +1,4 @@
+php{
+int $a=10;
+echo ("This is a php code": +$a);
+}
